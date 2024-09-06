@@ -1,0 +1,52 @@
+button {
+  background-color: #463d36;
+  color: white;
+  padding: 30px 40px;
+  font-size: 24px;
+  margin: 40px 40px;
+}
+
+.wrapper{
+    height: 400px;
+    width: 800px;
+    background-color: #463d36;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 20px;
+    margin-top: 20px;
+    
+}
+
+.container{
+    background-color:white;
+    width: 600px;
+    padding:10px 20px;
+    border-radius: 20px;
+}
+
+.p1{
+    color: #96192e;
+    font-weight: bold;
+    font-size: 28px;
+    padding:28px 40px;
+    margin-bottom: 0px;
+}
+
+.p2{
+    font-size: 40px;
+    padding: 28px 40px;
+    padding-top: 0px;
+    margin-top: 0px;
+
+}
+
+.p3{
+    font-size: 28px;
+    padding-left: 40px;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+}
